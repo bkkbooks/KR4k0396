@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0396_001.yaml, hash: 'sha256:3b3c7ae575753ca30c7ba2e781ad113e0f5af5bc4dd0afdc83dfd756cf186d34'}
+  - {seq: 1, filename: KR4k0396_001.yaml, hash: 'sha256:a6b9d33c5e319426aaeee9a2ef2c13e3da33a4b426db9cb25facd68c5dc487de'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0396_001.markers.yaml, hash: 'sha256:1961e53b920561acb676d6a720907dfcc202b2400d660a0ab98aecd4ac333205'}
+  - {seq: 1, role: markers, filename: assets/KR4k0396_001.markers.yaml, hash: 'sha256:19a1132f433a189f0c8131ce48b22267732f3879d0bece29b730d6143cbb670d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 蕭廣濟孝子傳
   type: section
   level: 1
-hash: sha256:0b6629e8c334e06cef79df8f524004fb34cc2b3b7ef6a7e5548b1c75975b68d1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:83e889a0855ce6f5d3d8b0d6f08ba70851be0a1520adc5c22d3ee324d90c00b4
